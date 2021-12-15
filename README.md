@@ -6,6 +6,8 @@ This dataset is comprised of 23 attributes, related to their population statisti
 
 The main notebook can be found in folder `notebooks/develop`.
 
+[Link to slides](https://docs.google.com/presentation/d/1zY-pLXvA7i32oYHrilYPkyFouNfZRb3wj7GLWrEO1GQ/edit?usp=sharing)
+
 ## Instructions
 
 Run the following:
@@ -66,3 +68,5 @@ Requirements needed:
 Jordi Vila Folgarona 1562542
 
 Aprenentatge Computacional, curs 2021-22
+
+Thanks to everybody who made the tools we used and the people in [datauab.github.io](datauab.github.io).
