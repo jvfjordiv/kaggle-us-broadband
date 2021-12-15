@@ -50,7 +50,7 @@ Requirements needed:
 ├── score                             <- Generated scores for each regression model.
 │
 ├── src                               <- ".py" files for treating and making our regression models 
-│   ├── generate_features.py          <- Script for cleaning and transforming data and generating features used for use in training and scoring.
+│   ├── generate_features.py          <- Script for cleaning, transforming and preparating data.
 │   ├── graphics_gen.py               <- Script for generating graphics based on treated data.
 │   ├── train_model.py                <- Script for training machine learning model(s)
 │   ├── regression                    <- Folder with regression scripts.
