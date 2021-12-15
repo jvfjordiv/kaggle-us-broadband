@@ -69,4 +69,4 @@ Jordi Vila Folgarona 1562542
 
 Aprenentatge Computacional, curs 2021-22
 
-Thanks to everybody who made the tools we used and the people in [datauab.github.io](datauab.github.io).
+Thanks to everybody who made the tools we used and the people in [datauab.github.io](https://datauab.github.io).
