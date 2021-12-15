@@ -1,0 +1,10 @@
+INPUT_DATASET = "data/broadband_access.csv"
+TARGET_ATTR = "no_internet"
+OUTPUT_PATH = "models"
+OUTPUT_GRAPH_PATH = "figures"
+THRESHOLD = 0.2
+FINAL_THRESHOLD = 0.5
+TEST_SIZE = 0.3
+RANDOM_STATE = 42
+OUTPUT_SCORE_PATH = "score"
+N_ESTIMATORS = 10
